@@ -79,3 +79,7 @@ namespace Patterns20230211_Flyweight
         }
     }
 }
+//KNIGHT warrior with SWORD and ARMOR is displayed at coordinates (10, 20)
+//ARCHER warrior with BOW & ARROWS and NO ARMOR is displayed at coordinates (30, 40)
+//KNIGHT warrior with SQORD and ARMOR is displayed at coordinates (50, 60)
+//Press any key to continue . . .
